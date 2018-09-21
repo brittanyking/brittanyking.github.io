@@ -1,0 +1,11 @@
+body { background: mistyrose;
+    color: dimgrey;
+    font-size: 16pt;
+    font-family: 'Open Sans Condensed', sans-serif;}
+li {
+
+}
+nav li {
+    display: inline-block;
+    border: 1px solid lightgrey;
+}
